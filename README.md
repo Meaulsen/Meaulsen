@@ -1,4 +1,4 @@
-Ciao a tutti, sono @Meaulsen, un Data Engineer con una forte passione per i dati e un background in matematica. Attualmente sono interessato alla Data Science e al ML.
+Ciao a tutti, sono @Meaulsen, un Banking Data Engineer con una forte passione per i dati e un background in matematica. Attualmente sono interessato alla Data Science e al ML.
 
 Come Data Engineer, ho esperienza nella progettazione, sviluppo e manutenzione di sistemi di elaborazione dati scalabili ed efficienti. Sono in grado di gestire grandi quantità di dati, dai quali estrarre informazioni utili, utilizzando tecniche di archiviazione, elaborazione e analisi. Inoltre, ho competenze in data modeling e in database design e ho esperienza nell'utilizzo di tecnologie come Apache Spark, Hadoop e SQL.
 
